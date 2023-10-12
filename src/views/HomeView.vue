@@ -2,7 +2,7 @@
 
 <template>
   <div class="wrapper">
-    <h2>Home</h2>
+    <h2>首页</h2>
   </div>
 </template>
 
